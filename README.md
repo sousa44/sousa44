@@ -30,11 +30,9 @@ Olá! Eu sou a **Renata de Sousa**, estudante de Análise e Desenvolvimento de S
 
 ---
 
-## 📈 GitHub Estatísticas
 
-![Renata's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatadesousa&show_icons=true&count_private=true&hide=issues&theme=radical&custom_title=Estatísticas%20do%20GitHub)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatadesousa&layout=compact&theme=radical)
+
 
 ---
 
